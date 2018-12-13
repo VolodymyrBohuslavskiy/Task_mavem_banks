@@ -1,5 +1,3 @@
-
-
 import MODEL.User;
 
 import javax.persistence.EntityManager;
